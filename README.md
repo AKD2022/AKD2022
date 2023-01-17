@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DrDabIT
+- 👋 Hi, I’m @AKD2022
 - 👀 I’m interested in Java 
 - 🌱 I’m currently learning Java
-- I am going to start Kotlin
 
 <!---
 DrDabIT/DrDabIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
